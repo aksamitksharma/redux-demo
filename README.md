@@ -1,6 +1,6 @@
 # redux-demo
 
-This code with show you redux core concepts with javascript
+This code will show you redux core concepts with javascript
 
 **React Redux**
 ### What is Redux?
